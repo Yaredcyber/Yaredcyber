@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **cyber security**
 
-- 🤝 I’m looking for help with [Malware Development](https://github.com/Yaredcyber/GTST-TOOLS/tree/main/malware)
+- 🤝 I’m looking for help with creating thier own hacking tools
 
 - 💬 Ask me about **python C and bash**
 
