@@ -25,7 +25,7 @@
         <a href="https://x.com/yaredhat" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
             <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1" style="width: 64px; height: 64px;">
         </a>
-        <a href="https://telegram.com/yaredhat" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
+        <a href="https://t.me/yaredhat/" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
             <img src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram" style="width: 64px; height: 64px;">
         </a>
 
