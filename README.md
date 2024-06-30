@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am funny 😁😁😁**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Contact with me:</h2>
 <p align="left">
    <a href="https://instagram.com/yaredhat1" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
             <img src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" style="width: 64px; height: 64px;">
@@ -28,12 +28,25 @@
         <a href="https://t.me/yaredhat/" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
             <img src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram" style="width: 64px; height: 64px;">
         </a>
-
+<h2>Langues and Tools</h2>
+   
+[![Linux](https://img.icons8.com/external-those-icons-flat-those-icons/100/external-Linux-logos-and-brands-those-icons-flat-those-icons.png)](https://www.linux.org/)
+&nbsp;&nbsp;
+[![Python](https://img.icons8.com/fluency/96/python.png)](https://www.python.org/)
+&nbsp;&nbsp;
+[![Bash](https://img.icons8.com/plasticine/100/bash.png)](https://www.gnu.org/software/bash/)
+&nbsp;&nbsp;
+[![C Programming](https://img.icons8.com/fluency/96/c-programming.png)](https://www.learn-c.org/)
+&nbsp;&nbsp;
+[![Nmap](https://img.icons8.com/color/96/nmap.png)](https://nmap.org/)
+&nbsp;&nbsp;
+[![Metasploit](https://img.icons8.com/fluency/96/metasploit.png)](https://www.metasploit.com/)
+&nbsp;&nbsp;
+[![Burp Suite](https://img.icons8.com/ios-filled/100/000000/burp-suite.png)](https://portswigger.net/burp)
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredcyber&show_icons=true&locale=en&layout=compact" alt="yaredcyber" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredcyber&show_icons=true&locale=en" alt="yaredcyber" /></p>
