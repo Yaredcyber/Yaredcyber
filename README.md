@@ -19,11 +19,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/yaredhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yaredcyber" height="30" width="40" /></a>
-<a href="https://instagram.com/yaredhat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaredmore12" height="30" width="40" /></a>
-<a href="https://google.com">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/telegram-app.png" alt="telegram-app">
-</a>
+   <a href="https://instagram.com/yaredhat1" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
+            <img src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" style="width: 64px; height: 64px;">
+        </a>
+        <a href="https://x.com/yaredhat" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
+            <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1" style="width: 64px; height: 64px;">
+        </a>
+        <a href="https://telegram.com/yaredhat" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
+            <img src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram" style="width: 64px; height: 64px;">
+        </a>
+
 
 </p>
 
