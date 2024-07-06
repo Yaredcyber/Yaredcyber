@@ -58,6 +58,10 @@
     <a href="https://portswigger.net/burp" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/000000/burp-suite.png" alt="Burp Suite" width="64px" height="64px">
     </a>
+     <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="  ![hydra-tool-logo-qy5gzpzoh7oqxicr](https://github.com/Yaredcyber/Yaredcyber/assets/147349965/1092156d-fb6b-4c0a-b340-c933418bf950)
+ " alt="Bash" width="64px" height="64px">
+    </a>
 </p>
 
 <!-- GitHub Readme Stats -->
