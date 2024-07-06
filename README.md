@@ -1,14 +1,14 @@
 ![github](https://github.com/Yaredcyber/GTST-TOOLS/assets/147349965/ccf58c0d-102f-42b2-b305-6c25def6e757)
 <h1 align="center">Hi 👋, I'm Yared Agizew</h1>
 
-<h3 align="center">A passionate in cyber security</h3>
+<h3 align="center">Am studying Web Pentest</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1024/0*kT6U_WOuiTJmLTyr.gif" width="500px" alt="Good Morning Friends"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaredcyber&label=Profile%20views&color=0e75b6&style=flat" alt="yaredcyber" /> </p>
 
-- 🔭 I’m currently learning on **Academic school**
 
-- 🌱 I’m currently learning **cyber security**
+
+- 🌱 I’m currently learning **cyber security web hacking **
 
 - 🤝 I’m looking for help with creating their own hacking tools
 
