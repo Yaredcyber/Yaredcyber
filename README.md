@@ -8,13 +8,16 @@
 
 
 
-- 🌱 I’m currently learning **cyber security web hacking **
+- 🌱 I’m currently learning **cyber security web hacking**
 
 - 🤝 I’m looking for help with creating their own hacking tools
 
 - 💬 Ask me about **Python, C, and Bash**
 
 - ⚡ Fun fact **I think I am funny 😁😁😁**
+<img src="https://tryhackme-badges.s3.amazonaws.com/yaredcyber.png" alt="Your Image Badge" />
+<hr>
+
 
 <h2 align="left">Contact with me:</h2>
 <p align="left">
